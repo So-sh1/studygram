@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "updatedAt": "2026-07-01",
+  "decks": [
+    {
+      "deckId": "chem-final",
+      "title": "化学 前期期末",
+      "subject": "化学",
+      "exam": "前期期末",
+      "file": "./data/shared-decks/chem-final.json",
+      "version": "1.0.0",
+      "updatedAt": "2026-07-01"
+    },
+    {
+      "deckId": "physics-mid",
+      "title": "物理 前期中間",
+      "subject": "物理",
+      "exam": "前期中間",
+      "file": "./data/shared-decks/physics-mid.json",
+      "version": "1.0.0",
+      "updatedAt": "2026-07-01"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "deckId": "physics-mid",
+  "title": "物理 前期中間",
+  "subject": "物理",
+  "exam": "前期中間",
+  "version": "1.0.0",
+  "updatedAt": "2026-07-01",
+  "cards": [
+    {
+      "id": "shared-physics-mid-001",
+      "question": "運動量の式は？",
+      "answer": "p = mv",
+      "tags": [
+        "運動量"
+      ],
+      "hint": "質量 × 速度です。",
+      "explanation": "p は運動量、m は質量、v は速度です。"
+    },
+    {
+      "id": "shared-physics-mid-002",
+      "question": "力積の式は？",
+      "answer": "I = Ft",
+      "tags": [
+        "力積"
+      ],
+      "hint": "力 × 時間です。",
+      "explanation": "力積は運動量の変化量に等しくなります。"
+    }
+  ]
+}

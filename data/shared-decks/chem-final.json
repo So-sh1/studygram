@@ -1,0 +1,40 @@
+{
+  "deckId": "chem-final",
+  "title": "化学 前期期末",
+  "subject": "化学",
+  "exam": "前期期末",
+  "version": "1.0.0",
+  "updatedAt": "2026-07-01",
+  "cards": [
+    {
+      "id": "shared-chem-final-001",
+      "question": "-OH の官能基名は？",
+      "answer": "ヒドロキシ基",
+      "tags": [
+        "官能基"
+      ],
+      "hint": "水酸基とも呼ばれます。",
+      "explanation": "アルコール類などに含まれる代表的な官能基です。"
+    },
+    {
+      "id": "shared-chem-final-002",
+      "question": "-COOH の官能基名は？",
+      "answer": "カルボキシ基",
+      "tags": [
+        "官能基"
+      ],
+      "hint": "カルボン酸に含まれます。",
+      "explanation": "酸性を示す代表的な官能基です。"
+    },
+    {
+      "id": "shared-chem-final-003",
+      "question": "-CHO の官能基名は？",
+      "answer": "アルデヒド基",
+      "tags": [
+        "官能基"
+      ],
+      "hint": "ホルミル基とも呼ばれます。",
+      "explanation": "アルデヒド類に含まれる官能基です。"
+    }
+  ]
+}
